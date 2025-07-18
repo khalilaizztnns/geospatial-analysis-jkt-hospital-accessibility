@@ -1,1 +1,3 @@
-# geospatial-analysis-jkt-hospital-accessibility
+# Geospatial Analysis of Hospital Accessibility in DKI Jakarta
+Using spatial data obtained from OpenStreetMap, a network analysis was conducted to evaluate hospital accessibility in the DKI Jakarta region. The analysis included network statistics, degree centrality, and the measurement of the shortest distance from each hospital to the nearest road network node. Degree centrality was utilized to identify key intersections or nodes that play a strategic role in urban connectivity, while distance analysis assessed the spatial proximity of hospitals to major transport links, providing insights into the ease of physical access to healthcare facilities across different areas of the city.
+geospatial-analysis-jkt-hospital-accessibility
